@@ -1,0 +1,24 @@
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\bin\Debug\ClaseDA.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\bin\Debug\ClaseDA.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\bin\Debug\ClaseDA.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.Resources.resources
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.vbproj.GenerateResource.Cache
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\bin\Debug\ClaseNE.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\bin\Debug\ClaseNE.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\bin\Debug\ClaseNE.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.vbprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\bin\Debug\ClaseDA.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\bin\Debug\ClaseDA.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\bin\Debug\ClaseDA.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\bin\Debug\ClaseNE.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\bin\Debug\ClaseNE.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\bin\Debug\ClaseNE.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.vbprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.Resources.resources
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.vbproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseDA\obj\Debug\ClaseDA.pdb

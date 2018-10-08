@@ -1,0 +1,41 @@
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.Alumnos.resources
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.Resources.resources
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.vbproj.GenerateResource.Cache
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseIU.exe
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseIU.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseIU.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseLN.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseNE.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseDA.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseLN.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseLN.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseNE.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseNE.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseDA.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\bin\Debug\ClaseDA.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.vbprojResolveAssemblyReference.cache
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.exe
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.pdb
+E:\Clases 2-2018\ProgIV\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.exe
+E:\Clases 2-2018\ProgIV\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.xml
+E:\Clases 2-2018\ProgIV\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.exe
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseIU.exe
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseIU.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseIU.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseLN.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseNE.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseDA.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseLN.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseLN.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseNE.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseNE.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseDA.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\bin\Debug\ClaseDA.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.vbprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.Alumnos.resources
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.Resources.resources
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseIU\obj\x86\Debug\ClaseIU.vbproj.GenerateResource.Cache

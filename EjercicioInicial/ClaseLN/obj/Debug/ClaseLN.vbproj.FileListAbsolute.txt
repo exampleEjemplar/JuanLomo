@@ -1,0 +1,30 @@
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.Resources.resources
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.vbproj.GenerateResource.Cache
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.vbprojResolveAssemblyReference.cache
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseLN.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseLN.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseLN.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseDA.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseNE.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseDA.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseDA.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseNE.pdb
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\bin\Debug\ClaseNE.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.dll
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.xml
+C:\A Copiar\Mi Pen Material Cervantes\Bases\Clases 2017\Clases 2-2017\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseLN.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseLN.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseLN.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseDA.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseNE.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseDA.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseDA.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseNE.pdb
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\bin\Debug\ClaseNE.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.vbprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.Resources.resources
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.vbproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.dll
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.xml
+C:\Users\Desarrollo\Desktop\EjercicioInicial\ClaseLN\obj\Debug\ClaseLN.pdb
